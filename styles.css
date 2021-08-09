@@ -1,0 +1,19 @@
+body{
+    font-family: 'Spartan', sans-serif;
+    font-size: 15px;
+}
+
+h1{
+    color: hsl(300, 43%, 22%);
+}
+
+.headline {
+    width: 50%;
+}
+
+.rating p {
+    background-color: hsl(300, 24%, 96%);
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline;
+}
