@@ -6,16 +6,66 @@ body{
 
 h1{
     color: hsl(300, 43%, 22%);
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0;
 }
 
 .headline {
-    width: 50%;
+    width: 40%;
     float: left;
+}
+
+.rating {
+    margin-top: 40px;
+    background-color: azure;
 }
 
 .rating p {
     background-color: hsl(300, 24%, 96%);
-    padding: 10px 20px;
+    font-weight: 700;
+    margin: 10px 0 10px 120px;
+    padding: 10px 30px;
     border-radius: 10px;
-    display: inline;
+    display: inline-block;
+    width: 400px;
 }
+
+#second-rating {
+    margin-left: 150px;
+}
+
+#third-rating {
+    margin-left: 180px;
+}
+
+.feedback {
+    text-align: left;
+    font: white;
+}
+
+
+.feedback1 {
+    width: 30%;
+    padding: 15px;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
+
+.feedback2 {
+    margin-top: 10px;
+    width: 30%;
+    padding: 15px;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
+.feedback3 {
+    margin-top: 10px;
+    width: 30%;
+    padding: 15px;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+
