@@ -11,6 +11,16 @@ h1{
     margin-bottom: 0;
 }
 
+span {
+    color: hsl(333, 80%, 67%);
+}
+
+.feedback img {
+    height: 50px;
+    border-radius: 45px;
+    float: left;
+}
+
 .headline {
     width: 40%;
     float: left;
@@ -18,7 +28,7 @@ h1{
 
 .rating {
     margin-top: 40px;
-    background-color: azure;
+    margin-bottom: 50px;
 }
 
 .rating p {
@@ -41,31 +51,43 @@ h1{
 
 .feedback {
     text-align: left;
-    font: white;
+    color: white;
+    line-height: 1.5;
 }
 
+.hdg-fdbk {
+    margin-bottom: 30px;
+    margin-left: 80px;
+}
 
 .feedback1 {
-    width: 30%;
-    padding: 15px;
+    margin-top: 10px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    width: 25%;
+    padding: 25px;
     display: inline-block;
-    background-color: antiquewhite;
+    background-color: hsl(300, 43%, 22%);
 }
 
 
 .feedback2 {
-    margin-top: 10px;
-    width: 30%;
-    padding: 15px;
+    margin-top: 15px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    width: 25%;
+    padding: 25px;
     display: inline-block;
-    background-color: antiquewhite;
+    background-color: hsl(300, 43%, 22%);
 }
 
 .feedback3 {
-    margin-top: 10px;
-    width: 30%;
-    padding: 15px;
+    margin-top: 25px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    width: 25%;
+    padding: 25px;
     display: inline-block;
-    background-color: antiquewhite;
+    background-color: hsl(300, 43%, 22%);
 }
 
