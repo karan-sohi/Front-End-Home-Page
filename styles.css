@@ -60,8 +60,7 @@ span {
     margin-left: 80px;
 }
 
-.feedback1 {
-    margin-top: 10px;
+.colton-feed {
     font-size: 0.8rem;
     border-radius: 6px;
     width: 25%;
@@ -71,22 +70,22 @@ span {
 }
 
 
-.feedback2 {
-    margin-top: 15px;
+.irene-feed {
     font-size: 0.8rem;
     border-radius: 6px;
     width: 25%;
     padding: 25px;
+    margin-left: 20px;
     display: inline-block;
     background-color: hsl(300, 43%, 22%);
 }
 
-.feedback3 {
-    margin-top: 25px;
+.anne-feed {
     font-size: 0.8rem;
     border-radius: 6px;
     width: 25%;
     padding: 25px;
+    margin-left: 20px;
     display: inline-block;
     background-color: hsl(300, 43%, 22%);
 }
